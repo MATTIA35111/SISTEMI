@@ -8,7 +8,7 @@ int main(void){
     printf("ciao,48!\n");
 
     i = 10;
-
+    
     printf("La variabile occupa %d byte\n",sizeof(i));
     printf("Il tipo char occupa %d byte in memoria\n",sizeof(char));
     printf("Il tipo di puntatore occupa %d byte in memoria\n",sizeof(int*));
@@ -19,3 +19,4 @@ int main(void){
 
     return 0;
 }
+
